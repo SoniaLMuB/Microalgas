@@ -14,6 +14,14 @@ from PyQt5.QtGui import QPixmap, QImage
 from PyQt5.QtCore import Qt
 from sklearn.metrics import confusion_matrix
 
+"""
+CANTU SANCHEZ NUBIA ESMERALDA
+MUÑOZ BARRIENTOS SONIA LIZBETH
+GARCIA PUENTE LILIAN SAYLI
+RODRIGUEZ MORENO JORGE JHOVAN
+GUEVARA GARCIA JORGE
+"""
+
 class App(QMainWindow):
     def __init__(self):
         super().__init__()
